@@ -1,2 +1,0 @@
-# AUTTimeZoneAppGate
-Ejercicio técnico automatización
